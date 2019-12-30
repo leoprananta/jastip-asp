@@ -1,0 +1,18 @@
+D:\201851048lp\FirstMeetup\FirstMeetup\bin\FirstMeetup.dll
+D:\201851048lp\FirstMeetup\FirstMeetup\bin\FirstMeetup.pdb
+D:\201851048lp\FirstMeetup\FirstMeetup\bin\FirstMeetup.xml
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\ResolveAssemblyReference.cache
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\FirstMeetup.Resources.resources
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\GenerateResource.read.1.tlog
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\GenerateResource.write.1.tlog
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\FirstMeetup.dll
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\FirstMeetup.xml
+D:\201851048lp\FirstMeetup\FirstMeetup\obj\Debug\FirstMeetup.pdb
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\bin\FirstMeetup.dll
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\bin\FirstMeetup.pdb
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\bin\FirstMeetup.xml
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\obj\Debug\FirstMeetup.Resources.resources
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\obj\Debug\FirstMeetup.vbproj.GenerateResource.Cache
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\obj\Debug\FirstMeetup.dll
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\obj\Debug\FirstMeetup.xml
+E:\Materi & Tugas Kuliah\Semester 3\Database\NEW\FirstMeetup\obj\Debug\FirstMeetup.pdb

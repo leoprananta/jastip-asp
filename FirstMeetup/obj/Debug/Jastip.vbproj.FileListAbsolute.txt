@@ -1,0 +1,8 @@
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\bin\FirstMeetup.dll
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\bin\FirstMeetup.pdb
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\bin\FirstMeetup.xml
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\obj\Debug\FirstMeetup.Resources.resources
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\obj\Debug\Jastip.vbproj.GenerateResource.Cache
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\obj\Debug\FirstMeetup.dll
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\obj\Debug\FirstMeetup.xml
+E:\Materi & Tugas Kuliah\Semester 3\Database\Jastip\FirstMeetup\obj\Debug\FirstMeetup.pdb
